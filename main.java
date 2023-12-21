@@ -9,7 +9,7 @@ public class main {
 
         Student yousef = new Student("Bakr", 323232, GENDER.MALE, "Quesna", 95.0, 22, 011);
         Student bakr = new Student("Bakr", 323232, GENDER.MALE, "Quesna", 96.0, 22, 011);
-
+        // hello
         List<String> familyActivities = new LinkedList<String>();
         familyActivities.add("Awarness");
         familyActivities.add("Finanacial");
